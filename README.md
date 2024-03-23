@@ -8,7 +8,7 @@
   ## Skills, API, Tools
 **Main** Java, Jsp </br>
 **DB** AWS freetier RDS  </br>
-**API** 기상청 Open API, Kakao map Opne API  </br>
+**API** 기상청 Open API, Kakao map Open API  </br>
 **Template** https://html5up.net/ (HTML/CSS/JS)  </br>
 
 ## function
