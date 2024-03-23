@@ -1,0 +1,146 @@
+[
+  {
+    "local_name": "한경면",
+    "tourist_spot": "환상숲곶자왈공원",
+    "address": "제주 제주시 한경면 녹차분재로 594-1",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "제주시",
+    "tourist_spot": "한라수목원",
+    "address": "제주 제주시 수목원길 72",
+    "tourist_type": "aboretum"
+  },
+  {
+    "local_name": "남원읍",
+    "tourist_spot": "휴애리자연생활공원",
+    "address": "제주 서귀포시 남원읍 신례동로 256",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "제주시",
+    "tourist_spot": "용두암",
+    "address": "제주 제주시 용두암길 15",
+    "tourist_type": "ocean"
+  },
+  {
+    "local_name": "제주시",
+    "tourist_spot": "삼양해수욕장",
+    "address": "제주 제주시 삼양동",
+    "tourist_type": "ocean"
+  },
+  {
+    "local_name": "조천읍",
+    "tourist_spot": "함덕해수욕장",
+    "address": "제주 제주시 조천읍 조함해안로 525",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "구좌읍",
+    "tourist_spot": "별방진",
+    "address": "제주 제주시 구좌읍 하도리 3354",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "서귀포시",
+    "tourist_spot": "정방폭포",
+    "address": "제주 서귀포시 칠십리로214번길 37",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "서귀포시",
+    "tourist_spot": "용머리해안",
+    "address": "제주 서귀포시 안덕면 사계리 112-3",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "중문",
+    "tourist_spot": "중문색달해수욕장",
+    "address": "제주 서귀포시 색달동",
+    "tourist_type": "ocean"
+  },
+  {
+    "local_name": "구좌읍",
+    "tourist_spot": "비자림",
+    "address": "제주 제주시 구좌읍 비자숲길 55",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "성산읍",
+    "tourist_spot": "성산일출봉",
+    "address": "제주 서귀포시 성산읍 성산리 1",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "안덕면",
+    "tourist_spot": "산방산",
+    "address": "제주 서귀포시 안덕면",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "대정읍",
+    "tourist_spot": "송악산둘레길",
+    "address": "제주 서귀포시 대정읍 상모리 245",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "추자도",
+    "tourist_spot": "섬",
+    "address": "제주 제주시 추자면 추자도",
+    "tourist_type": "island"
+  },
+  {
+    "local_name": "비양도",
+    "tourist_spot": "섬",
+    "address": "제주 제주시 한림읍 한림해안로 146",
+    "tourist_type": "island"
+  },
+  {
+    "local_name": "차귀도",
+    "tourist_spot": "섬",
+    "address": "제주 제주시 한경면 고산리",
+    "tourist_type": "island"
+  },
+  {
+    "local_name": "가파도",
+    "tourist_spot": "섬",
+    "address": "제주 서귀포시 대정읍 가파리",
+    "tourist_type": "island"
+  },
+  {
+    "local_name": "마라도",
+    "tourist_spot": "섬",
+    "address": "제주 서귀포시 대정읍 가파리 600",
+    "tourist_type": "island"
+  },
+  {
+    "local_name": "우도",
+    "tourist_spot": "우도 유채꽃 정보화마을",
+    "address": "제주 제주시 우도면 연평리 1751-9",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "한림읍",
+    "tourist_spot": "금오름",
+    "address": "제주 제주시 한림읍 금악리 산1-1",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "애월읍",
+    "tourist_spot": "새별오름",
+    "address": "제주 제주시 애월읍 봉성리 산59-8",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "표선면",
+    "tourist_spot": "제주허브동산",
+    "address": "제주 서귀포시 표선면 돈오름로 170",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "서귀포시",
+    "tourist_spot": "오설록",
+    "address": "제주 서귀포시 안덕면 신화역사로 15 오설록",
+    "tourist_type": "field"
+  }
+]

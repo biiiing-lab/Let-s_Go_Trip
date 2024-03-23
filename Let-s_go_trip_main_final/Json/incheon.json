@@ -1,0 +1,62 @@
+[
+  {
+    "local_name": "동구",
+    "tourist_spot": "배다리 헌책방 골목",
+    "address": "인천광역시 동구 금곡로 3 (금곡동)",
+    "tourist_type": "street"
+  },
+  {
+    "local_name": "중구",
+    "tourist_spot": "월미문화의거리",
+    "address": "인천광역시 중구 월미로 252 (북성동1가)",
+    "tourist_type": "street"
+  },
+  {
+    "local_name": "미추홀구",
+    "tourist_spot": "인천향교",
+    "address": "인천광역시 미추홀구 매소홀로 589 (문학동)",
+    "tourist_type": "bridge"
+  },
+  {
+    "local_name": "강화군",
+    "tourist_spot": "강화도제적봉 평화전망대",
+    "address": "인천광역시 강화군 양사면 전망대로 797 (양사면)",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "옹진군",
+    "tourist_spot": "장경리 해수욕장",
+    "address": "인천광역시 옹진군 영흥면 영흥로757번길 6",
+    "tourist_type": "ocean"
+  },
+  {
+    "local_name": "계양구",
+    "tourist_spot": "계양꽃마루",
+    "address": "인천광역시 계양구 서운동 106-1번 일원 (계양경기장 양궁장 뒤) (서운동)",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "부평구",
+    "tourist_spot": "원적산공원 은행나무숲",
+    "address": "인천광역시 부평구 산곡1동 80-22",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "연수구",
+    "tourist_spot": "송도센트럴파크",
+    "address": "인천광역시 연수구 컨벤시아대로 160",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "남동구",
+    "tourist_spot": "늘솔길공원양떼목장",
+    "address": "인천광역시 남동구 앵고개로815번길 59 (논현동)",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "서구",
+    "tourist_spot": "인천어린이천문대",
+    "address": "인천광역시 서구 원당대로 454-14 (왕길동)",
+    "tourist_type": "experience"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "local_name": "중구",
+    "tourist_spot": "으능정이문화의거리",
+    "address": "대전 중구 중앙로 145",
+    "tourist_type": "street"
+  },
+  {
+    "local_name": "대덕구",
+    "tourist_spot": "금강로하스대청공원",
+    "address": "대전 대덕구 미호동 57-1",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "유성구",
+    "tourist_spot": "대전 엑스포 아쿠아리움",
+    "address": "대전 유성구 엑스포로 1 대전 신세계 Art&Science 지하 1층",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "동구",
+    "tourist_spot": "옛터민속박물관",
+    "address": "대전 동구 산내로 321-35",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "서구",
+    "tourist_spot": "장태산자연휴양림",
+    "address": "대전 서구 장안로 461",
+    "tourist_type": "arboretum"
+  }
+]

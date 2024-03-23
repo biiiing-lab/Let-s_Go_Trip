@@ -1,0 +1,248 @@
+[
+  {
+    "local_name": "창원시",
+    "tourist_spot": "3.15 해양누리공원",
+    "address": "창원시 마산합포구 월남동1가 46-4",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "창녕군",
+    "tourist_spot": "우포늪 생태체험장",
+    "address": "창녕군 대합면 우포2로 370",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "고성군",
+    "tourist_spot": "그레이스 정원",
+    "address": "고성군 상리면 동산리 797-1",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "하동군",
+    "tourist_spot": "지리산국립공원",
+    "address": "하동군 화개면 대성리 511-1",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "함양군",
+    "tourist_spot": "상림공원",
+    "address": "함양군 함양읍 팔봉산길 49",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "의령군",
+    "tourist_spot": "호국공원",
+    "address": "의령군 의령읍 중동리 164 일원",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "거창군",
+    "tourist_spot": "황금원숭이마을",
+    "address": "거창군 워천면 상천리 282-2",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "남해군",
+    "tourist_spot": "독일마을",
+    "address": "남해군 삼동면 물건리 1074-2",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "산청군",
+    "tourist_spot": "남사예담촌",
+    "address": "산청군 단성면 지리산대로 2897번길 10",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "진주시",
+    "tourist_spot": "진주성",
+    "address": "진주시 남강로 626(본성동)",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "밀양시",
+    "tourist_spot": "영남루",
+    "address": "밀양시 중앙로 324(내일동)",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "함안군",
+    "tourist_spot": "함안수박축제",
+    "address": "함안군 가야읍 도항리 249-52",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "통영시",
+    "tourist_spot": "사량대교",
+    "address": "통영시 사량면 금평리",
+    "tourist_type": "bridge"
+  },
+  {
+    "local_name": "사천시",
+    "tourist_spot": "사천바다케이블카",
+    "address": "사천시 대방동 688",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "김해시",
+    "tourist_spot": "김해한글박물관",
+    "address": "김해시 분성로 221(외동)",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "양산시",
+    "tourist_spot": "한국궁중꽃박물관",
+    "address": "양산시 매곡외산로 242(매곡동)",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "합천군",
+    "tourist_spot": "대장경테마파크",
+    "address": "합천군 가야면 가야산로 1160",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "거제시",
+    "tourist_spot": "거제맹종죽테마파크",
+    "address": "경상남도 거제시 하청면 거제북로 700",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "영천시",
+    "tourist_spot": "임고강변공원",
+    "address": "영천시 임고연 덕연리",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "경산시",
+    "tourist_spot": "삼성현 역사문화공원",
+    "address": "경산시 남산면 삼성현공원로 59",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "영양군",
+    "tourist_spot": "반딧불이생태공원",
+    "address": "영양군 수비면 수하리 255-1번지외 652필지",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "구미시",
+    "tourist_spot": "구미 에코랜드",
+    "address": "구미시 산동면 인덕1길 195",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "문경시",
+    "tourist_spot": "단산 모노레일",
+    "address": "문경시 문경읍 활공장길 106",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "청도군",
+    "tourist_spot": "청도레일바이크",
+    "address": "청도군 청도읍 하지길 46-51(신도리48-2)",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "김천시",
+    "tourist_spot": "자산동 벽화마을",
+    "address": "김천시 자산동",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "군위군",
+    "tourist_spot": "화산마을(화산산성)",
+    "address": "군위군 삼국유사면 화북리 산 230",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "영덕군",
+    "tourist_spot": "차유어촌체험마을",
+    "address": "영덕군 축산면 차유길 12-4",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "포항시",
+    "tourist_spot": "이가리 닻전망대",
+    "address": "포항시 북구 청하면 이가리 산67-3",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "울릉군",
+    "tourist_spot": "행남 해안산책로",
+    "address": "울릉군 울릉읍 도동리",
+    "tourist_type": "street"
+  },
+  {
+    "local_name": "경주시",
+    "tourist_spot": "불국사 박물관",
+    "address": "경주시 불국로 385",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "안동시",
+    "tourist_spot": "하회세계탈박물관",
+    "address": "안동시 풍천면 전서로 206",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "영주시",
+    "tourist_spot": "인삼박물관",
+    "address": "영주시 풍기읍 죽령로 1378",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "의성군",
+    "tourist_spot": "조문국 박물관",
+    "address": "경상북도 의성군 금성면 초전1길 83",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "고령군",
+    "tourist_spot": "대가야박물관",
+    "address": "고령군 대가야읍 대가야로 1203",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "상주시",
+    "tourist_spot": "경천섬",
+    "address": "상주시 중동면 오상리 968-1",
+    "tourist_type": "island"
+  },
+  {
+    "local_name": "청송군",
+    "tourist_spot": "청송 주산지 일원",
+    "address": "청송군 주왕산면 주산지리 산41-1",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "울진군",
+    "tourist_spot": "등기산 스카이워크",
+    "address": "울진군 후포면 등기산길 29",
+    "tourist_type": "bridge"
+  },
+  {
+    "local_name": "성주군",
+    "tourist_spot": "참외체험형테마공원",
+    "address": "성주군 성주읍 참별로 2479",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "칠곡군",
+    "tourist_spot": "꿀벌나라 테마공원",
+    "address": "칠곡군 석적읍 강변대로 1580-1",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "예천군",
+    "tourist_spot": "예천곤충생태체험관",
+    "address": "예천군 효자면 고향리 608",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "봉화군",
+    "tourist_spot": "봉화목재문화체험장",
+    "address": "봉화군 봉성면 구절로 151",
+    "tourist_type": "experience"
+  }
+]

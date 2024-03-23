@@ -1,0 +1,75 @@
+.divStyle {
+    float:right; 
+    padding-left:20px;
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    font-size:large;
+}
+
+.formStyle {
+    position:relative;
+    left:15em;
+    bottom: 3.3em;
+}
+
+.imgSize {
+    width: 25%;
+    height: 25%;
+}
+
+.firstBlock {
+    display: inline-block;
+    margin: 0 0 50px 200px;
+    padding : 1px;
+    overflow: hidden;
+}
+
+
+.secondBlock {
+    display: inline-block;
+    margin: 0px 200px 50px 50px;
+    padding : 1px;
+    overflow: hidden;
+}
+
+.thirdBlock {
+    display: inline-block;
+    margin: 0 0 0 200px;
+    padding : 1px;
+    overflow: hidden;
+}
+
+.fourthBlock {
+    display: inline-block;
+    margin: 0px 200px 0 50px;
+    padding : 1px;
+    overflow: hidden;
+}
+
+.footer {
+    background-color: #d3d3d3;
+    padding: 3px;
+}
+
+nav{
+    background-color:white;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+nav ul li {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 15px;
+    display: inline-block;
+    margin: 0 15px;
+    padding: 0;
+}
+
+nav ul {
+    text-align: center;
+    margin : 0 auto;
+    padding : 15px;
+}

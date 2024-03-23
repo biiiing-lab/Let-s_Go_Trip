@@ -1,0 +1,206 @@
+[
+  {
+    "local_name": "서대문구",
+    "tourist_spot": "이대거리",
+    "address": "서울특별시 서대문구 대현동 (대현동)",
+    "tourist_type": "street",
+  },
+  {
+    "local_name": "용산구",
+    "tourist_spot": "남산 서울타워",
+    "address": "서울특별시 용산구 남산공원길 105",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "강북구",
+    "tourist_spot": "북서울 꿈의숲",
+    "address": "서울특별시 강북구 월계로 173",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "광진구",
+    "tourist_spot": "아차산생태공원",
+    "address": "서울특별시 광진구 워커힐로 127",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "도봉구",
+    "tourist_spot": "서울창포원",
+    "address": "서울특별시 도봉구 마들로 916",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "서초구",
+    "tourist_spot": "매헌 시민의숲",
+    "address": "서울특별시 서초구 매헌로 99 (양재동)",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "송파구",
+    "tourist_spot": "방이동 생태경관 보전지역",
+    "address": "서울특별시 송파구 동남로 397 (방이동)",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "중랑구",
+    "tourist_spot": "용마폭포공원",
+    "address": "서울특별시 중랑구 용마산로 250-12 (면목동)",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "강서구",
+    "tourist_spot": "서울식물원",
+    "address": "서울특별시 강서구 마곡동로 161 (마곡동)",
+    "tourist_type": "aboretum"
+  },
+  {
+    "local_name": "관악구",
+    "tourist_spot": "관악산 낙성대공원",
+    "address": "서울특별시 관악구 낙성대로 77",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "동작구",
+    "tourist_spot": "보라매공원",
+    "address": "서울특별시 동작구 여의대방로20길 33",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "종로구",
+    "tourist_spot": "마로니에공원",
+    "address": "서울특별시 종로구 대학로 104",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "성북구",
+    "tourist_spot": "서울 의릉",
+    "address": "서울특별시 성북구 화랑로32길 146-20 (석관동)",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "중구",
+    "tourist_spot": "숭례문",
+    "address": "서울특별시 중구 세종대로 40",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "노원구",
+    "tourist_spot": "서울시립 북서울미술관",
+    "address": "서울특별시 노원구 동일로 1238 (중계동)",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "성동구",
+    "tourist_spot": "성수미술관",
+    "address": "서울특별시 성동구 성수동2가 289-14",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "강동구",
+    "tourist_spot": "암사선사유적박물관",
+    "address": "서울특별시 강동구 올림픽로 875 (암사동)",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "동대문구",
+    "tourist_spot": "세종대왕박물관",
+    "address": "서울특별시 동대문구 회기로 56 (청량리동)",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "강남구",
+    "tourist_spot": "일상비일상의틈",
+    "address": "서울특별시 강남구 강남대로 426 (역삼동)",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "구로구",
+    "tourist_spot": "G밸리 4차산업체험관",
+    "address": "서울특별시 구로구 디지털로26길 111 (구로동), B1층",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "금천구",
+    "tourist_spot": "금나래아트홀",
+    "address": "서울특별시 금천구 시흥대로73길 70 금천구청종합청사",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "마포구",
+    "tourist_spot": "코코넛박스",
+    "address": "서울특별시 마포구 서교동 357-1",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "양천구",
+    "tourist_spot": "국제선센터",
+    "address": "서울특별시 양천구 목동동로 167 (신정동)",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "은평구",
+    "tourist_spot": "진관사",
+    "address": "서울특별시 은평구 진관길 73",
+    "tourist_type": "temple"
+  },
+  {
+    "local_name": "영등포구",
+    "tourist_spot": "이랜드크루즈(한강유람선)",
+    "address": "서울특별시 영등포구 여의동로 290 노들나루",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  },
+  {
+    "local_name": "",
+    "tourist_spot": "",
+    "address": "",
+    "tourist_type": ""
+  }
+]

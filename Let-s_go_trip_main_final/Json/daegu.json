@@ -1,0 +1,56 @@
+[
+  {
+    "local_name": "달성군",
+    "tourist_spot": "옥연지 송해공원",
+    "address": "대구 달성군 옥포읍 기세리 306",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "서구",
+    "tourist_spot": "이현공원",
+    "address": "대구 서구 이현동 산119",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "달서구",
+    "tourist_spot": "이월드",
+    "address": "대구 달서구 두류공원로 200 이월드",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "중구",
+    "tourist_spot": "청라언덕",
+    "address": "대구 중구 달구벌대로 2029",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "동구",
+    "tourist_spot": "동촌유원지",
+    "address": "대구광역시 동구 효목1동 효동로6길",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "수성구",
+    "tourist_spot": "국립대구박물관",
+    "address": "대구 수성구 청호로 321 국립대구박물관",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "북구",
+    "tourist_spot": "하중도 유채꽃단지",
+    "address": "대구 북구 노곡동 740",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "달성군",
+    "tourist_spot": "비슬산자연휴양림",
+    "address": "대구 달성군 유가읍 일연선사길 99",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "남구",
+    "tourist_spot": "앞산공원전망대",
+    "address": "대구 남구 대명동 산227-4",
+    "tourist_type": "experience"
+  }
+]

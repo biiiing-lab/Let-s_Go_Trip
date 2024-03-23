@@ -1,0 +1,158 @@
+[
+  {
+    "local_name": "당진시",
+    "tourist_spot": "천주교 솔뫼성지",
+    "address": "충청남도 당진시 우강면 솔뫼로 132",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "보령시",
+    "tourist_spot": "상화원",
+    "address": "충청남도 보령시 남포면 남포방조제로 408-52",
+    "tourist_type": "arboretum"
+  },
+  {
+    "local_name": "금산군",
+    "tourist_spot": "하늘물빛정원",
+    "address": "충청남도 금산군 추부면 검한1길 156",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "청양군",
+    "tourist_spot": "칠갑산 장승공원",
+    "address": "충청남도 청양군 대치면 장곡길 119-17",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "공주시",
+    "tourist_spot": "무령왕릉",
+    "address": "충청남도 공주시 웅진동 왕릉로 35",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "서산시",
+    "tourist_spot": "헤미읍성",
+    "address": "충청남도 서산시 해미면 남문2로 143",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "예산군",
+    "tourist_spot": "수덕사",
+    "address": "충청남도 예산군 덕산면 수덕사안길 79",
+    "tourist_type": "temple"
+  },
+  {
+    "local_name": "서천군",
+    "tourist_spot": "장항스카이워크",
+    "address": "충청남도 서천군 장항읍 장항산단로34번길 74-45",
+    "tourist_type": "bridge"
+  },
+  {
+    "local_name": "태안군",
+    "tourist_spot": "태안 신두리 해안사구",
+    "address": "충청남도 태안군 원북면 신두리 산 263-1",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "천안시",
+    "tourist_spot": "독립기념관",
+    "address": "충청남도 천안시 동남구 목천읍 독립기념관로 1",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "아산시",
+    "tourist_spot": "외암민속마을",
+    "address": "충청남도 아산시 송악면 외암리 84",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "논산시",
+    "tourist_spot": "백제군사박물관",
+    "address": "충청남도 논산시 부적면 충곡로 311-54",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "부여군",
+    "tourist_spot": "백제문화단지",
+    "address": "충청남도 부여군 규암면 백제문로 455",
+    "tourist_type": "street"
+  },
+  {
+    "local_name": "계룡시",
+    "tourist_spot": "계룡산",
+    "address": "충청남도 공주시,계룡시,대전에 걸쳐있는 산",
+    "tourist_type": "mountain"
+  },
+  {
+    "local_name": "홍성군",
+    "tourist_spot": "용봉산 자연휴양림",
+    "address": "충청남도 홍성군 홍북읍 용봉산2길 87",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "보은군",
+    "tourist_spot": "보은 법주사",
+    "address": "충청북도 보은군 속리산면 법주사로 405",
+    "tourist_type": "temple"
+  },
+  {
+    "local_name": "옥천군",
+    "tourist_spot": "옥천성당",
+    "address": "충청북도 옥천군 옥천읍 중앙로 91",
+    "tourist_type": "temple"
+  },
+  {
+    "local_name": "청주시",
+    "tourist_spot": "문의문화재단지",
+    "address": "충청북도 청주시 상당구 문의면 대청호반로 721",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "단양군",
+    "tourist_spot": "도담삼봉",
+    "address": "충청북도 단양군 매포읍 삼봉로 644 (매포읍)",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "음성군",
+    "tourist_spot": "설성공원",
+    "address": "충청북도 음성군 음성읍 설성공원길 28 (음성읍)",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "제천시",
+    "tourist_spot": "용추폭포 유리전망대",
+    "address": "충청북도 제천시 의림지로 33 (모산동)",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "증평군",
+    "tourist_spot": "좌구산 자연휴양림",
+    "address": "충청북도 증평군 증평읍 솟점말길 107",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "괴산군",
+    "tourist_spot": "백마권역마을",
+    "address": "충청북도 괴산군 사리면 사리로 517 (사리면)",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "영동군",
+    "tourist_spot": "영동블루와인농원",
+    "address": "충청북도 영동군 양산면 호탄길 53-23",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "진천군",
+    "tourist_spot": "물안뜰체험관",
+    "address": "충청북도 진천군 백곡면 백곡로 964",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "충주시",
+    "tourist_spot": "능암온천랜드",
+    "address": "충청북도 충주시 새바지길 37 능암온천랜드",
+    "tourist_type": "experience"
+  }
+]

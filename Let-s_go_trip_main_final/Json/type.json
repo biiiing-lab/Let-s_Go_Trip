@@ -1,0 +1,70 @@
+[
+  {
+    "tourist_type": "park",
+    "tourist_type_name": "공원"
+  },
+  {
+    "tourist_type": "arboretum",
+    "tourist_type_name": "수목원"
+  },
+  {
+    "tourist_type": "nature",
+    "tourist_type_name": "자연관광"
+  },
+  {
+    "tourist_type": "ocean",
+    "tourist_type_name": "바다"
+  },
+  {
+    "tourist_type": "lake",
+    "tourist_type_name": "호수"
+  },
+  {
+    "tourist_type": "valley",
+    "tourist_type_name": "계곡"
+  },
+  {
+    "tourist_type": "mountain",
+    "tourist_type_name": "산"
+  },
+  {
+    "tourist_type": "island",
+    "tourist_type_name": "섬"
+  },
+  {
+    "tourist_type": "field",
+    "tourist_type_name": "밭"
+  },
+  {
+    "tourist_type": "museum",
+    "tourist_type_name": "예술문화관"
+  },
+  {
+    "tourist_type": "temple",
+    "tourist_type_name": "절"
+  },
+  {
+    "tourist_type": "paalace",
+    "tourist_type_name": "궁"
+  },
+  {
+    "tourist_type": "building",
+    "tourist_type_name": "건물"
+  },
+  {
+    "tourist_type": "street",
+    "tourist_type_name": "길거리"
+  },
+  {
+    "tourist_type": "experience",
+    "tourist_type_name": "체험활동"
+  },
+  {
+    "tourist_type": "bridge",
+    "tourist_type_name": "다리"
+  },
+  {
+    "tourist_type": "village",
+    "tourist_type_name": "마을"
+  }
+]

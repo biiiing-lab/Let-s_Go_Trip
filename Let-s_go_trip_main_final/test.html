@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>5일간 (120시간) 날씨 불러오기</title>
+
+<style>
+    textarea{
+        width: 300px;
+        height: 300px;
+    }
+    input{
+        width: 400px;
+    }
+</style>
+
+
+<script src="./js/weather.js"></script>
+</head>
+<body>
+<div class="main_container">
+    <input id='text_area' value="5일 (120시간) 날씨 정보  (기본 : 서울)">
+    <br />
+    <textarea id='text_area0' ></textarea>
+    <textarea id='text_area1'></textarea>
+    <textarea id='text_area2'></textarea>
+    <textarea id='text_area3'></textarea>
+    <textarea id='text_area4'></textarea>
+</div>
+</body>
+</html>
+
+/*
+* author : velog.io/@___
+* path : ./js/weather.js
+*/
+<script>
+const API_KEY = "f4cc94442a60561347aa6de324e695c7"
+
+// 서울, 대한민국 위치. default
+const COORD_LOC = {
+    "latitude" : "37.58",
+    "longitude" : "127",
+};
+
+if ('geolocation' in navigator) {
+    /* 위치 정보 사용 가능. */
+    alert('위치 정보 사용 가능');
+    navigator.geolocation.getCurrentPosition(position => {
+        COORD_LOC.latitude = position.coords.latitude;
+        COORD_LOC.longitude = position.coords.longitude;
+    })
+} else {
+    /* 위치 정보 사용 불가능 */
+    alert('위치 정보 사용 불가능');
+    // default : 서울, 대한민국 위치
+    COORD_LOC.latitude = "37.58";
+    COORD_LOC.longitude = "127";
+}
+
+function getWeather(latitude, longitude) {
+    // today 날씨 정보
+    //fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${latitude}&lon=${longitude}&appid=${f4cc94442a60561347aa6de324e695c7}&units=metric`)
+    // 120 시간 날씨 정보, 3시간 단위 40개 get.
+    fetch(`https://api.openweathermap.org/data/2.5/forecast?lat=${37.541}&lon=${126.986}&appid=${f4cc94442a60561347aa6de324e695c7}&units=metric`)
+        .then(response => {
+            return response.json();
+        }).then(json => {
+            //console.log(json);
+            //console.log(json.list);
+            for (let index = -1; ++index < 40;) {
+                document.getElementById(`text_area${Math.floor(index / 8)}`).innerHTML += `날짜:${json.list[index].dt_txt}, 기온:${json.list[index].main.temp} `;
+                document.getElementById(`text_area${Math.floor(index / 8)}`).innerHTML += '\n';
+            }
+        });
+}
+
+function load() {
+    getWeather(COORD_LOC.latitude, COORD_LOC.longitude);
+}
+
+load();
+</script>

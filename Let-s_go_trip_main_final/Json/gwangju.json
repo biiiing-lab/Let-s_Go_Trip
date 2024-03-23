@@ -1,0 +1,32 @@
+[
+  {
+    "local_name": "남구",
+    "tourist_spot": "빛고을 농촌테마공원",
+    "address": "광주광역시 남구 포충로 966-15 (양과동)",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "광산구",
+    "tourist_spot": "광주 수완호수공원",
+    "address": "광주광역시 광산구 장신로82번길 57 공원관리사무소",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "동구",
+    "tourist_spot": "무등산 리프트 모노레일",
+    "address": "광주광역시 동구 지호로164번길 14-10 (지산동)",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "서구",
+    "tourist_spot": "청춘발산마을",
+    "address": "광주광역시 서구 천변좌로 12-16",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "북구",
+    "tourist_spot": "광주패밀리랜드",
+    "address": "광주광역시 북구 우치로 677 (생용동)",
+    "tourist_type": "experience"
+  }
+]

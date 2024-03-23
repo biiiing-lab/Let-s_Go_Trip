@@ -1,0 +1,188 @@
+[
+  {
+    "local_name": "부천시",
+    "tourist_spot": "부천중앙공원",
+    "address": "경기도 부천시 원미구 중동 소향로 162",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "성남시",
+    "tourist_spot": "율동공원",
+    "address": "경기도 성남시 분당구 문정로 145",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "안양시",
+    "tourist_spot": "평촌중앙공원",
+    "address": "경기도 안양시 동안구 관평로 149",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "양주시",
+    "tourist_spot": "북한산 송추계곡",
+    "address": "경기도 양주시 장흥면 울대리 산66-14",
+    "tourist_type": "valley"
+  },
+  {
+    "local_name": "양평군",
+    "tourist_spot": "세미원",
+    "address": "경기도 양평군 양서면 양수로 93",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "이천시",
+    "tourist_spot": "설봉공원",
+    "address": "경기도 이천시 관고동 418-2",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "파주시",
+    "tourist_spot": "마장호수",
+    "address": "경기도 파주시 광탄면 기산리 481-1",
+    "tourist_type": "lake"
+  },
+  {
+    "local_name": "구리시",
+    "tourist_spot": "건원릉",
+    "address": "경기도 구리시 인창동 산4-2",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "화성시",
+    "tourist_spot": "융건릉",
+    "address": "경기도 화성시 효행로 481번길 21",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "고양시",
+    "tourist_spot": "행주산성",
+    "address": "경기도 고양시 덕양구 행주동 행주로15번길 89",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "광주시",
+    "tourist_spot": "남한산성",
+    "address": "경기도 광주시 남한산성면 산성리 661(남한산성 전승문 기준)",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "김포시",
+    "tourist_spot": "문수산성",
+    "address": "경기도 김포시 월곶면 문수산로 102-38",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "수원시",
+    "tourist_spot": "수원화성",
+    "address": "경기도 수원시 팔달구 장안동",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "연천군",
+    "tourist_spot": "연천 호로고루",
+    "address": "경기도 연천군 장남면 원당리 1259",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "오산시",
+    "tourist_spot": "독산성",
+    "address": "경기도 오산시 지곶동 162-1",
+    "tourist_type": "palace"
+  },
+  {
+    "local_name": "안산시",
+    "tourist_spot": "달전망대",
+    "address": "경기도 안산시 단원구 대부동 대부황금로 1927",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "군포시",
+    "tourist_spot": "초막골생태공원",
+    "address": "경기도 군포시 산본동 946",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "시흥시",
+    "tourist_spot": "시흥갯골생태공원",
+    "address": "경기도 시흥시 연성동 동서로 287",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "가평군",
+    "tourist_spot": "아침고요수목원",
+    "address": "경기도 가평군 상면 수목원로 432",
+    "tourist_type": "arboretum"
+  },
+  {
+    "local_name": "여주시",
+    "tourist_spot": "황학산수목원",
+    "address": "경기도 여주시 황학산수목원길 73",
+    "tourist_type": "arboretum"
+  },
+  {
+    "local_name": "평택시",
+    "tourist_spot": "평택중앙시장",
+    "address": "경기도 평택시 중앙시장로19,20번길",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "남양주시",
+    "tourist_spot": "봉선사",
+    "address": "경기도 남양주시 진접읍 봉선사길 32",
+    "tourist_type": "temple"
+  },
+  {
+    "local_name": "동두천시",
+    "tourist_spot": "자재암",
+    "address": "경기도 동두천시 평화로2910번길 145",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "안성시",
+    "tourist_spot": "석남사",
+    "address": "경기도 안성시 금광면 상촌새말길 3-120",
+    "tourist_type": "temple"
+  },
+  {
+    "local_name": "의정부시",
+    "tourist_spot": "망월사",
+    "address": "경기도 의정부시 호원동 도봉산",
+    "tourist_type": "temple"
+  },
+  {
+    "local_name": "용인시",
+    "tourist_spot": "한국민속촌",
+    "address": "경기도 용인시 기흥구 민속촌로 90",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "의왕시",
+    "tourist_spot": "철도박물관",
+    "address": "경기도 의왕시 철도박물관로 142",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "과천시",
+    "tourist_spot": "서울대공원",
+    "address": "경기도 과천시 대공원광장로 102",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "광명시",
+    "tourist_spot": "광명동굴",
+    "address": "경기도 광명시 가학로85번길 142",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "포천시",
+    "tourist_spot": "포천 허브아일랜드",
+    "address": "경기도 포천시 신북면 청신로 947번길 35",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "하남시",
+    "tourist_spot": "주렁주렁",
+    "address": "경기도 하남시 하남유니온로 120",
+    "tourist_type": "experience"
+  }
+]

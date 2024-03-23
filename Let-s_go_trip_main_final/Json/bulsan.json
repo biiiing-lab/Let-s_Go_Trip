@@ -1,0 +1,128 @@
+[
+  {
+    "local_name": "북구",
+    "tourist_spot": "화명동 장미공원",
+    "address": "북구 화명제3동 2280",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "사상구",
+    "tourist_spot": "삼락생태공원",
+    "address": "사상구 삼락동 686",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "강서구",
+    "tourist_spot": "렛츠런파크",
+    "address": "강서구 가락대로 929",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "부산진구",
+    "tourist_spot": "부산시민공원",
+    "address": "부산진구 시민공원로 73",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "영도구",
+    "tourist_spot": "흰여울 문화마을",
+    "address": "영도구 영썬동4가 1043",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "사하구",
+    "tourist_spot": "감천문화마을",
+    "address": "사하구 감내1로 200",
+    "tourist_type": "village"
+  },
+  {
+    "local_name": "기장군",
+    "tourist_spot": "해동용궁사",
+    "address": "기장군 용궁길 86",
+    "tourist_type": "temple"
+  },
+  {
+    "local_name": "연제구",
+    "tourist_spot": "연산동 고분군",
+    "address": "연제구 연산동 산90-4",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "해운대구",
+    "tourist_spot": "해운대 해수욕장",
+    "address": "해운대구",
+    "tourist_type": "ocean"
+  },
+  {
+    "local_name": "수영구",
+    "tourist_spot": "광안리 해수욕장",
+    "address": "수영구 광안2동",
+    "tourist_type": "ocean"
+  },
+  {
+    "local_name": "남구",
+    "tourist_spot": "오륙도 스카이워크",
+    "address": "남구 오륙도로 137(용호동)",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "중구",
+    "tourist_spot": "부산항대교",
+    "address": "중구 감만제1동",
+    "tourist_type": "bridge"
+  },
+  {
+    "local_name": "서구",
+    "tourist_spot": "송도해수욕장",
+    "address": "서구 암남동",
+    "tourist_type": "ocean"
+  },
+  {
+    "local_name": "동래구",
+    "tourist_spot": "해양자연사박물관",
+    "address": "동래구 우장춘로 175",
+    "tourist_type": "museum"
+  },
+  {
+    "local_name": "금정구",
+    "tourist_spot": "서동미로시장",
+    "address": "금정구 서동로 141번길 16",
+    "tourist_type": "experience"
+  },
+  {
+    "local_name": "동구",
+    "tourist_spot": "성북고개 웹툰 이바구길",
+    "address": "동구 범일동 1430-6",
+    "tourist_type": "street"
+  },
+  {
+    "local_name": "중구",
+    "tourist_spot": "태화강 국가정원",
+    "address": "중구 태화강 국가정원길 154",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "북구",
+    "tourist_spot": "편백산림욕장",
+    "address": "북구 달천동 산170",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "남구",
+    "tourist_spot": "울산대공원",
+    "address": "남구 대공원로 94",
+    "tourist_type": "park"
+  },
+  {
+    "local_name": "울주군",
+    "tourist_spot": "간절곶",
+    "address": "울주군 서생면 대송리 28-1",
+    "tourist_type": "nature"
+  },
+  {
+    "local_name": "동구",
+    "tourist_spot": "일산해수욕장",
+    "address": "동구 일산동",
+    "tourist_type": "ocean"
+  }
+]
